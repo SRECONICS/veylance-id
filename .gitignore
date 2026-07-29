@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build output
+build/
+dist/
+*.spec.bak
+
+# Face recognition models (large binaries — download separately, see README)
+models/*.onnx
+
+# Runtime data — biometric embeddings, PIN hash, enrolled face photos,
+# intruder snapshots, auth logs. Never commit this.
+data/
+
+# Editor/OS cruft
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
