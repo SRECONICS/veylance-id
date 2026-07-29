@@ -1,6 +1,25 @@
-# Veylance ID
+<div align="center">
 
-**Local, offline AI-powered facial identity verification and presence security for Windows.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Veylance%20ID&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Local,%20Offline%20AI-Powered%20Facial%20Identity%20Verification&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/opencv/opencv_zoo"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=100%25+Offline+%E2%80%94+No+Cloud%2C+No+Telemetry;YuNet+Detection+%2B+SFace+Recognition;Head-Turn+Liveness+Challenge;Windows+Hello+Face+Alternative+for+RGB+Webcams" alt="Typing SVG" /></a>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/CV-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQLite](https://img.shields.io/badge/DB-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Cloud%20Calls-Zero-critical?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+
+</div>
+
+---
 
 Veylance ID turns a regular RGB webcam into a Windows Hello Face–style security layer for laptops that don't have IR camera hardware. Everything — face detection, recognition, liveness checking, and decision-making — runs **100% locally**. No cloud calls, no external face recognition APIs, no telemetry.
 
@@ -120,3 +139,7 @@ These are documented rather than hidden — this is a personal-project security 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+</div>
